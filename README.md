@@ -9,3 +9,6 @@ This chatbot was tested on a group of students after training it on 70 correct p
 3. Download the files you want to train the model on in this folder (in my case, I downloaded the correct data file and the Poisoned data file)
 4. Turn on the rest of the cells
 5. Finally, I linked the code to a user interface using gradio so that users can interact with the chatbot easily so after the last cell, a link will appear that you can share to try the chatbot.
+
+
+The main source of the code:https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/Chat%20with%20Multiple%20Documents/Chat_with_Multiple_Documents_Llama2_OpenAI_Chroma_comp.ipynb
