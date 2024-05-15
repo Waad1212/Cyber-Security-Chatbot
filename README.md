@@ -1,5 +1,6 @@
 # Cyber-Security-Chatbot
-A chatbot was used in the experiment (in the research paper)
+A chatbot was used in the experiment (in The Ethical Implications of Training Data Poisoning
+in Large Language Models research paper)
 ## Explanation of chatbot
 This code sets up a system for building a question-and-answer chatbot that retrieves information from uploaded documents (PDF, Docx, Txt) and utilizes a large language model (LLM) for generating responses.
 This chatbot was tested on a group of students after training it on 70 correct pieces of information and 30 incorrect pieces of information (two PDF files are in this repost) to test the extent of their confidence in the answers provided by large language models.
